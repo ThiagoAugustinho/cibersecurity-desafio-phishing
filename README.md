@@ -1,11 +1,11 @@
-# Phishing para captura de senhas do Instagram
+# Phishing para captura de senhas do Instagram #
 
-### Ferramentas
+### Ferramentas ###
 
 - Kali Linux
 - setoolkit
 
-### Configurando o Phishing no Kali Linux
+### Configurando o Phishing no Kali Linux ###
 
 - Acesso root: ``` sudo su ```
 - Iniciando o setoolkit: ``` setoolkit ```
@@ -16,6 +16,6 @@
 - Obtendo o endereço da máquina: ``` ifconfig ```
 - URL para clone: https://www.instagram.com
 
-### Resutados
+### Resutados ###
 
 ![Alt text](./passwd.png "Optional title")
