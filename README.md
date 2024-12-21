@@ -19,7 +19,8 @@
 
 ### Resutados ###
 
-![Screenshot_2024-12-21_12-26-52](https://github.com/user-attachments/assets/82d3bcf9-6ce0-427a-9227-4affb9265de5)
+![Screenshot_2024-12-21_12-26-52](https://github.com/user-attachments/assets/435c8061-3587-4ac9-87c1-e48816ea8f26)
+
 
 
 
