@@ -19,7 +19,8 @@
 
 ### Resutados ###
 
-![image](https://github.com/user-attachments/assets/6fd734b0-3b77-438f-b970-3feb8e854b6c)
+
+![image](https://github.com/user-attachments/assets/a2c56369-983b-4216-b408-5e14e7f8f482)
 
 
 
